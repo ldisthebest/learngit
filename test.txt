@@ -1,2 +1,4 @@
 like in
 //执行命令
+i like it!
+i like git!
