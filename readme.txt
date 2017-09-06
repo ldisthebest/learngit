@@ -1,5 +1,1 @@
-
-
-bug_test
-
-bug_test twice
+now clean.
